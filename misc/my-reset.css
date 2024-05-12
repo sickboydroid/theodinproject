@@ -1,0 +1,17 @@
+/* my minimal reset */
+* {
+  margin: 0;
+  padding: 0;
+  outline: none;
+  box-sizing: border-box;
+  font-family: inherit;
+}
+
+/* Widgets that don't inherit font-family by default */
+button,
+input,
+select,
+textarea {
+  font-family: inherit;
+  font-size: 100%;
+}

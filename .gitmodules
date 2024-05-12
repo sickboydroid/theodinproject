@@ -1,0 +1,33 @@
+[submodule "projects/SnakeGame"]
+	path = projects/SnakeGame
+	url = https://github.com/sickboydroid/Snake-Game.git
+[submodule "projects/rock-paper-scissors"]
+	path = projects/rock-paper-scissors
+	url = git@github.com:sickboydroid/rock-paper-scissors
+[submodule "projects/Recipes"]
+	path = projects/Recipes
+	url = git@github.com:sickboydroid/Recipes
+[submodule "projects/Etch-a-Sketch"]
+	path = projects/Etch-a-Sketch
+	url = git@github.com:sickboydroid/Etch-a-Sketch
+[submodule "projects/Flood-Fill"]
+	path = projects/Flood-Fill
+	url = https://github.com/sickboydroid/flood-fill
+[submodule "projects/BezierCurves"]
+	path = projects/BezierCurves
+	url = https://github.com/sickboydroid/Bezier-Curves.git
+[submodule "projects/Landing-Page"]
+	path = projects/Landing-Page
+	url = git@github.com:sickboydroid/Landing-Page
+[submodule "projects/jklm.fun-bot"]
+	path = projects/jklm.fun-bot
+	url = https://github.com/sickboydroid/bombparty-bot.git
+[submodule "projects/Calculator"]
+	path = projects/Calculator
+	url = https://github.com/sickboydroid/Calculator
+[submodule "projects/Fancy-Border-Radius"]
+	path = projects/Fancy-Border-Radius
+	url = https://github.com/sickboydroid/Fancy-Border-Radius.git
+[submodule "projects/GameOfLife"]
+	path = projects/GameOfLife
+	url = https://github.com/sickboydroid/Game-Of-Life.git
